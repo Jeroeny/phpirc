@@ -1,18 +1,18 @@
 {
-  "name": "jeroeny/phpirc",
+  "name": "jeroeny/smartirc",
   "description": "A php library for connecting with IRC and creating bots. Based on pear/Net_SmartIRC.",
   "keywords": [
     "irc",
     "bot"
   ],
-  "homepage": "https://github.com/Jeroeny/phpirc",
+  "homepage": "https://github.com/Jeroeny/smartirc",
   "type": "library",
   "license": "MIT",
   "authors": [
     {
       "name": "Jeroen Spee",
       "email": "sp33.nl@gmail.com",
-      "homepage": "https://github.com/Jeroeny"
+      "homepage": "https://github.com/Jeroeny/smartirc"
     }
   ],
   "require": {
