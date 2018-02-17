@@ -1,0 +1,16 @@
+{
+  "connection": {
+    "host": "chat.freenode.net",
+    "port": 6697,
+    "reconnect": true
+  },
+  "login": {
+    "nick": "nick",
+    "realname": "John Doe",
+    "username": "nick",
+    "password": "P@ssw0rd!"
+  },
+  "channels": [
+    "#channel"
+  ]
+}
